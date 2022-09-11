@@ -3,6 +3,10 @@
     font: 'Poppins', sans-serif ;
 }
 
+#curriculo{
+    margin: 0 auto
+}
+
 .card{
     margin-bottom: 20px;
     box-shadow: none;
